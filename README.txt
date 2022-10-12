@@ -1,4 +1,4 @@
-1---- Project Name - ZeroBalanceMovieApp
+1---- Project Name - movieReviewBackendAPI
 ==========================================
 
 2---- What this application does =>
